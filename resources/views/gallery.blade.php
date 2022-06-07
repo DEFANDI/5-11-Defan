@@ -1,5 +1,5 @@
 @extends('layouts.main')
 
 @section('container')
-    <h1>Halaman Gallery</h1>
+    <h3>Halaman Home</h3>
 @endsection
